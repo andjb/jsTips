@@ -1,6 +1,6 @@
 # jsTips
 
-this app will display a random tip from the list contained withing the .js file
+this app will display a random tip from the list contained within the .js file
 
 to set this as your chrome new tab function:
 
