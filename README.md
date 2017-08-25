@@ -13,3 +13,8 @@ click 'load unpackaged extension'
 select the root folder
 
 fin
+
+
+******************************************************
+from a codecademy tutorial
+https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132
